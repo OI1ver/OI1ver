@@ -1,8 +1,8 @@
 # Oliver
 
-Building useful software across product, automation, and applied AI.
+Do I have any idea what I'm doing? 
 
-Product-minded and hands-on, I like turning rough ideas into straightforward solutions.
+Well, it depends on who you ask, but I'd say so. Not that I'm particularly credible in that aspect.. 
 
 ## Toolkit
 
